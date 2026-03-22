@@ -9,6 +9,7 @@ The page provides a modern and visually appealing interface that works across **
 
 https://photography-club-recruitment-26.vercel.app/
 
+
 ---
 
 ## 🚀 Project Description
