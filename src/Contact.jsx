@@ -7,7 +7,9 @@ function Contact() {
       </h2>
 
       <p className="text-lg md:text-2xl text-amber-300">
-        Email: photographyclub@nitk.edu.in
+        <a href="mailto:photographyclub@nitk.edu.in" className="text-amber-300 hover:text-amber-400">
+          Email: photographyclub@nitk.edu.in
+        </a>
       </p>
     </section>
   );
