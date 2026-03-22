@@ -15,7 +15,7 @@ https://photography-club-recruitment-26.vercel.app/
 ## 🚀 Project Description
 
 This project focuses on building a **responsive landing page** for a Photography Club.  
-It includes key sections such as navigation, hero banner, about information, events, and gallery preview.
+It includes key sections such as navigation, hero banner, about information, events, and gallery preview
 
 The goal of the project is to practice **responsive web design using HTML, CSS, and modern layout techniques like Flexbox and Grid**.
 
