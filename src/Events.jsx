@@ -14,7 +14,7 @@ function Events() {
         </p>
       </div>
 
-      <h2 className="text-3xl md:text-4xl font-bold text-center mb-14 text-amber-300">
+      <h2 id="events" className="text-3xl md:text-4xl font-bold text-center mb-14 text-amber-300">
         Upcoming Events
       </h2>
 
