@@ -1,5 +1,5 @@
 import React from "react";
-import cover from "./copy.avif";
+import cover from "./Photos/c.png";
 
 function Hero() {
   return (
@@ -13,7 +13,7 @@ function Hero() {
       </h1>
 
       <p className="text-xl md:text-3xl font-bold text-amber-800 mt-4 max-w-xl">
-        Join our Photography Club
+        Explore our Photography Club
       </p>
 
       <button
